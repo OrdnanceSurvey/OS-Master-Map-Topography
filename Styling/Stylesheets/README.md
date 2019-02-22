@@ -1,6 +1,6 @@
 ## OS MasterMap Topography Layer SQL & stylesheets
 
-Following this [link](https://github.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets) to a repository containing database SQL scripts and cartographic stylesheets for styling OS MasterMap Topography Layer. 
+Follow this [link](https://github.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets) to a repository containing database SQL scripts and cartographic stylesheets for styling OS MasterMap Topography Layer. 
 
 ## Getting Started Guide
 

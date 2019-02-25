@@ -16,7 +16,7 @@ Within each product repository you will find:
       <li><b>FME</b> – FME workbenches</li>
     </ul>
  <li><b>Sample Code</b> – Sample code or demos for that product</li>
- <li><b>Schemas</b> - Old & new update Schema versions</li>
+ <li><b>Schemas</b> - Old & new updated schema versions</li>
  <li><b>Guidance</b> - List of guides relevant to this product</li> 
 </ul>
 
@@ -27,5 +27,5 @@ Within each product repository you will find:
 <details>
 <summary>FAQ's</summary>
 <br>
-A list of technical FAQ's regarding OMM Topogrpahy
+A list of technical FAQ's regarding OMM Topography
 </details>

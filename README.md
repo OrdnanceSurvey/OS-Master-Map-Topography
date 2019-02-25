@@ -4,8 +4,7 @@
 <summary>What will I find here?</summary>
 <br>
 Within each product repository you will find:
-<br>
- 
+<br> 
 <ul>
  <li><b>Styling</b> – Top level folder containing all things related to the styling, Stylesheets, LYR files, fonts etc.</li>
  <li><b>SQL</b> – Top level folder containing core SQL files for that product</li>

@@ -17,7 +17,6 @@ Within each product repository you will find:
     </ul>
  <li><b>Sample Code</b> – Sample code or demos for that product</li>
  <li><b>Schemas</b> - Old & new updated schema versions</li>
- <li><b>Guidance</b> - List of guides relevant to this product</li> 
 </ul>
 
 </details>

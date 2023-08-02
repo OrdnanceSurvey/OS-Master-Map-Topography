@@ -9,7 +9,7 @@ For help and advice please see the [Getting Started Guide](https://github.com/Or
 
 ## Images
 
-![Backdrop style](https://https://github.com/OrdnanceSurvey/OS-Master-Map-Topography/blob/master/Styling/Stylesheets/Schema%20version%209/Stylesheets/ESRI%20stylesheets%20(LYR)/images/Backdrop-1.png)
+![Backdrop style](https://github.com/OrdnanceSurvey/OS-Master-Map-Topography/blob/master/Styling/Stylesheets/Schema%20version%209/Stylesheets/ESRI%20stylesheets%20(LYR)/images/Backdrop-1.png)
 
 ![Standard style](https://raw.githubusercontent.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets/master/Schema%20version%209/Stylesheets/ESRI%20stylesheets%20(LYR)/images/Standard-1.png)
 

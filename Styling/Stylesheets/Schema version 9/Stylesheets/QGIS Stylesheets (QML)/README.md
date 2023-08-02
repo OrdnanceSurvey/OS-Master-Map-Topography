@@ -12,10 +12,10 @@ These stylesheets make use of Rule-based Labelling which was introduced at QGIS 
 
 ## Images
 
-![Backdrop style](https://raw.githubusercontent.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets/master/Schema%20version%209/Stylesheets/QGIS%20stylesheets%20(QML)/images/Backdrop-1.png)
+![Backdrop style](https://github.com/OrdnanceSurvey/OS-Master-Map-Topography/blob/master/Styling/Stylesheets/Schema%20version%209/Stylesheets/ESRI%20stylesheets%20(LYR)/images/Backdrop-1.png)
 
-![Standard style](https://raw.githubusercontent.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets/master/Schema%20version%209/Stylesheets/QGIS%20stylesheets%20(QML)/images/Standard-1.png)
+![Standard style](https://github.com/OrdnanceSurvey/OS-Master-Map-Topography/blob/master/Styling/Stylesheets/Schema%20version%209/Stylesheets/ESRI%20stylesheets%20(LYR)/images/Standard-1.png)
 
-![Outdoor style](https://raw.githubusercontent.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets/master/Schema%20version%209/Stylesheets/QGIS%20stylesheets%20(QML)/images/Outdoor-1.png)
+![Outdoor style](https://github.com/OrdnanceSurvey/OS-Master-Map-Topography/blob/master/Styling/Stylesheets/Schema%20version%209/Stylesheets/ESRI%20stylesheets%20(LYR)/images/Outdoor-1.png)
 
-![Light style](https://raw.githubusercontent.com/OrdnanceSurvey/OSMM-Topography-Layer-stylesheets/master/Schema%20version%209/Stylesheets/QGIS%20stylesheets%20(QML)/images/Light-1.png)
+![Light style](https://github.com/OrdnanceSurvey/OS-Master-Map-Topography/blob/master/Styling/Stylesheets/Schema%20version%209/Stylesheets/ESRI%20stylesheets%20(LYR)/images/Light-1.png)
